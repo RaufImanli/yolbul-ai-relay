@@ -1,0 +1,13 @@
+{
+  "name": "yolbul-ai-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "YolBul AI companion relay - mints OpenAI Realtime ephemeral credentials so the API key never ships in the APK.",
+  "main": "ai-relay.js",
+  "scripts": {
+    "start": "node ai-relay.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
